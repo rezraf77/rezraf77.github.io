@@ -40,5 +40,7 @@
 * DOB        **10-03-1998**
 * Gender     **Male**
 * Nationality **Indian**
+* Email  **rezraf77@gmail.com**
+* Mob    **+91 7560922401*
 
 
