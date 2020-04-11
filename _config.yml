@@ -73,13 +73,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "rezraf77@gmail.com"
-  facebook: deanattali
-  github: daattali
+  #rss: true
+  email: "mailto:rezraf77@gmail.com"
+  #facebook: deanattali
+  github: "https://github.com/rezraf77"
 # twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "https://in.linkedin.com/in/rezwin-rafeek"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -210,7 +210,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
+  rooturl: 'about'
   media: 'img'
   ignore:
     - 404.html
