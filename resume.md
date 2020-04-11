@@ -1,4 +1,4 @@
-# RESUME
+# -
 
 ## Rezwin Rafeek
 * rezraf77@gmail.com
