@@ -31,9 +31,9 @@
 * Reading Books,Playing Videogames,Playing and Watching Football
 
 ## Personal Details
-* Address    **Akthar,
+* Address    **Akthar,**
              Thana PO
              Kannur,Kerala 670012
-* DOB        **10-03-1998
-* Gender     **Male
-* Nationality **Indian
+* DOB        **10-03-1998**
+* Gender     **Male**
+* Nationality **Indian**
