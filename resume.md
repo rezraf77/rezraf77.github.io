@@ -25,7 +25,9 @@
 ## Areas of Interests
 * CyberSecurity, CloudComputing, WebDevelopment
 
-
+## Additional Skills
+* Proficient in using the linux terminal
+* Fluent in English, Hindi and Malayalam
 
 ## Hobbies
 * Reading Books,Playing Videogames,Playing and Watching Football
@@ -37,3 +39,5 @@
 * DOB        **10-03-1998**
 * Gender     **Male**
 * Nationality **Indian**
+
+
