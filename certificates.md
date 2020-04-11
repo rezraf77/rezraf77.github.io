@@ -53,6 +53,26 @@
   | ID : 9586R6WP8Q4N                                                                                                          |
 
 ***
+AI
+* | [Getting Started with AI on Jetson Nano](https://courses.nvidia.com/certificates/72a7f2c6ce6146479b2ad5e1f45a8296) | 
+  | :-------------------:                                                                                                      |
+  | Issued By : NVIDIA Deep Learning Institute                                                                                 |
+  | July 2019 - No Expiration Date                                                                                             |
+  | ID : 72a7f2c6ce6146479b2ad5e1f45a8296                                                                                      |
+  
+***
+Digital Marketing
+
+* | [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) |
+  | :----------------------:                                                                                                             |
+  | Issued By: Google                                                                                                                    |
+  | July 2019 - No Expiration Date                                                                                                       |
+  | ID : GDT 58Q 4LQ                                                                                                                     |
+  
+***
+  
+
+
 
 
 
