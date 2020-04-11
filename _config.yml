@@ -23,7 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Certificates: "certificates"
-  Projects : "Projects"
+  Projects : 
+    - YRov : "https://rezraf77.github.io/YRov/"
+    - crypt_on : "https://rezraf77.github.io/crypt_on/
   
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
