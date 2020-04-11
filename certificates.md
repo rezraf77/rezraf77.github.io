@@ -9,3 +9,17 @@
 | Issued By: Google                                                                                                                    |
 | Jan 2019 - Jan 2021                                                                                                                  |
 | ID : 12442550                                                                                                                        |
+
+| [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/T8U5BHK8DN83) |
+| :-------------------:                                                                                                           |
+| Issued By : Coursera                                                                                                            |
+| October 2018 -                                                                                                                  |
+| ID : T8U5BHK8DN83                                                                                                               |
+
+| [Essential Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/verify/2YVBJN4YUKUR)              |
+| :-------------------:                                                                                                           |
+| Issued By : Coursera                                                                                                            |
+| October 2018 -                                                                                                                  |
+| ID : 2YVBJN4YUKUR                                                                                                               |
+
+
