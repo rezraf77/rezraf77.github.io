@@ -21,6 +21,10 @@ description: My portfolio
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "resume"
+  Certificates: "certificates"
+  Projects : "Projects"
+  
   #Resources:
    # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"
