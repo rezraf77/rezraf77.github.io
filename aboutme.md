@@ -15,7 +15,7 @@ I'm currently an Agora Student Ambassador and also a <a href="https://www.creden
 </p>
 
 ### stay in touch
-* [<span class="fab fa-envelope"></span> rezraf77@gmail.com](mailto:rezraf77@gmail.com)
+* [<span class="fab fa-envelope-open"></span> rezraf77@gmail.com](mailto:rezraf77@gmail.com)
 * [<span class="fab fa-github"></span> rezraf77](https://github.com/rezraf77)
 * [<span class="fab fa-linkedin"></span> rezwin-rafeek](https://www.linkedin.com/in/rezwin-rafeek/)
 
