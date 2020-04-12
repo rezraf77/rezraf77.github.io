@@ -1,8 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Engg Student,Tech Enthusiast,Chelsea Supporter
+subtitle:  :soccer: :books:
 ---
 
-Hi I'm Rezwin Rafeek, 
+### Hello
+I'm Rezwin, 
+<br/>
+I'm a final year CS engineering student 
 
