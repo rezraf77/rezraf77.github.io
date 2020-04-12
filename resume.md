@@ -37,13 +37,13 @@ title: Resume
 * Reading Books,Playing Videogames,Playing and Watching Football
 
 ## Personal Details
-* <i class="fab fa-address-book"> Address    **Akthar,**
+* Address :  **Akthar,**
              Thana PO
              Kannur,Kerala 670012
-* <i class="fab fa-cake"> DOB        **10-03-1998**
-* <i class="fab fa-male"> Gender     **Male**
-* <i class="fab fa-flag">Nationality **Indian**
-* <i class="fas fa-envelope"> Email  **rezraf77@gmail.com**
-* <i class="fab fa-tel">Mob    **+91 7560922401**
+* DOB :  **10-03-1998**
+* Gender : **Male**
+* Nationality : **Indian**
+* Email : **rezraf77@gmail.com**
+* Mob  : **+91 7560922401**
 
 
