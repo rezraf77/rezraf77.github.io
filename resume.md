@@ -1,4 +1,7 @@
-# -
+---
+layout: page
+title: Resume
+---
 
 ## Rezwin Rafeek
 * rezraf77@gmail.com
