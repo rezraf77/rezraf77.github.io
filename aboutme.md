@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle:asdghkasdhgksfdjkghlk
+subtitle: Engg. Student, Agora Student Ambassador, Chelsea Fan
 ---
 
-### Hello :wave:
+### Hello 
 I'm Rezwin, :wave:
 <br/>
 I'm a final year CS engineering student 
