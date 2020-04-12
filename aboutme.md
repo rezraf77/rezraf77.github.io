@@ -11,3 +11,6 @@ I'm currently an Agora Student Ambassador and also a <a href="https://www.creden
 <br />
  In my downtime I like reading books, playing videogames and watching football, I'm a huge CR7 fan and an ardent Chelsea Supporter
 </p>
+
+### stay in touch
+* [<span class="fa fa-linkedin"></span> rezwin-rafeek](https://www.linkedin.com/in/rezwin-rafeek/)
