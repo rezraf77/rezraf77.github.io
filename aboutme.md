@@ -5,7 +5,7 @@ title: About me
 
 ### Hi! 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm <strong>Rezwin Rafeek </strong> , a final year CS Engineering student @ MESCE Kuttippuram interested in Cloud Computing,Cyber Security and WebDevelopment
+I'm <strong>Rezwin Rafeek </strong> , a final year CS Engineering student @ MESCE Kuttippuram interested in Cloud Computing,Cyber Security and WebDevelopment
 </p>
 <p>
 I'm currently an Agora Student Ambassador and also a <a href="https://www.credential.net/8l14wlvo?key=e0654b6f6ae429c8e1096602b9fd10c485bdac1ef9d0427e0bed6450f23cb913">Google Cloud Certified Associate Cloud Engineer</a>
