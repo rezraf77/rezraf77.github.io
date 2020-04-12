@@ -6,18 +6,18 @@ title: Resume
 ## Rezwin Rafeek
 * rezraf77@gmail.com
 * +917560922401
-<br/>
+
 ## Experience
 * **Agora Student Ambassador** ,Janu 2020 - Present
 * **WebMaster , IEE SB MESCE** ,Jan 2019 - Dec 2019
-<br/>
+
 ## Skills
  * Programming : **Python , C , C++**
  * WebDev :**HTML5 Stack , Bootstrap4**
- <br/>
+
 ## Achievements
 * **Google Certified Associate Cloud Engineer** : Completed all requirements to be recognised as a Google Cloud Certified associate cloud engineer
-<br/>
+
 ## Educational Qualification
 
 | Degree                  | Institute                               | University/Board |Percentage/CGPA|Year of Passing|
@@ -25,25 +25,25 @@ title: Resume
 | AISSE(10th)             |Chinmaya Vidyalaya Kannur                | CBSE             | 9.2           | 2014          |
 | AISSCE(12th)            | Bharathiya Vidya Bhavan,Kannur          | CBSE             | 88.6%         | 2016          |
 | B-Tech Computer Science | MES College of Engineering, Kuttippuram | KTU              | 7.11          | Pursuing      |
-<br/>
+
 ## Areas of Interests
 * CyberSecurity, CloudComputing, WebDevelopment
-<br/>
+
 ## Additional Skills
 * Proficient in using the **linux terminal**
 * Fluent in **English, Hindi and Malayalam**
-<br/>
+
 ## Hobbies
 * Reading Books,Playing Videogames,Playing and Watching Football
-<br/>
+
 ## Personal Details
-* Address    **Akthar,**
+* <i class="fab fa-address-book"> Address    **Akthar,**
              Thana PO
              Kannur,Kerala 670012
-* DOB        **10-03-1998**
-* Gender     **Male**
-* Nationality **Indian**
-* Email  **rezraf77@gmail.com**
-* Mob    **+91 7560922401**
+* <i class="fab fa-cake"> DOB        **10-03-1998**
+* <i class="fab fa-male"> Gender     **Male**
+* <i class="fab fa-flag">Nationality **Indian**
+* <i class="fas fa-envelope"> Email  **rezraf77@gmail.com**
+* <i class="fab fa-tel">Mob    **+91 7560922401**
 
 
