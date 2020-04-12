@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle:  :soccer: :books:
+subtitle:asdghkasdhgksfdjkghlk
 ---
 
 ### Hello
