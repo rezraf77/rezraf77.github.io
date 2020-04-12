@@ -1,4 +1,7 @@
-#### Certificates
+---
+layout: page
+title: Certificates
+---
 
 ***
 ## Cloud Computing
