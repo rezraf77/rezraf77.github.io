@@ -1,7 +1,4 @@
-# Certificates and Specializations
-
-
-# Certificates
+###### Certificates
 
 ***
 ## Cloud Computing
