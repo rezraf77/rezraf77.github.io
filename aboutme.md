@@ -5,7 +5,5 @@ subtitle: Engg. Student, Agora Student Ambassador, Chelsea Fan
 ---
 
 ### Hello 
-I'm Rezwin, :wave:
-<br/>
-I'm a final year CS engineering student 
+I'm **Rezwin Rafeek** , a final year CS Engineering student @ MESCE Kuttippuram interested in Cloud Computing,Cyber Security and WebDevelopment
 
