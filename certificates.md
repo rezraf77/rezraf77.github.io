@@ -83,8 +83,7 @@ title: Certificates
 
 <br/>
 
-  | [Crash Course on Python](
-https://www.coursera.org/account/accomplishments/certificate/SKJWCFQTEKCF) |
+  | [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/SKJWCFQTEKCF) |
   | :----------------------:                                                                                                             |
   | Issued By: Coursera                                                                                                                    |
   | April 2020 - No Expiration Date                                                                                                       |
