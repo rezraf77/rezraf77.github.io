@@ -77,12 +77,25 @@ title: Certificates
 
 <br/>
 
+## Version Control Systems
+
+<br/>
+
+  | [The Fundamentals of Digital Marketing](https://www.coursera.org/account/accomplishments/certificate/U6JEAE72SLPU) |
+  | :----------------------:                                                                                                             |
+  | Issued By: Coursera                                                                                                                    |
+  | April 2020 - No Expiration Date                                                                                                       |
+  | ID : U6JEAE72SLPU                                                                                                                    |
+
+<br/>
+
+***
 ***
 ## Digital Marketing
 
 <br/>
 
-  | [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) |
+  | [Introduction to Git and GitHub](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) |
   | :----------------------:                                                                                                             |
   | Issued By: Google                                                                                                                    |
   | July 2019 - No Expiration Date                                                                                                       |
@@ -91,6 +104,8 @@ title: Certificates
 <br/>
 
 ***
+
+
   
 
 
