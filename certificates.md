@@ -65,18 +65,6 @@ title: Certificates
 <br/>
 
 ***
-## AI
-
-<br/>
-
-  | [Getting Started with AI on Jetson Nano](https://courses.nvidia.com/certificates/72a7f2c6ce6146479b2ad5e1f45a8296) | 
-  | :-------------------:                                                                                                      |
-  | Issued By : NVIDIA Deep Learning Institute                                                                                 |
-  | July 2019 - No Expiration Date                                                                                             |
-  | ID : 72a7f2c6ce6146479b2ad5e1f45a8296                                                                                      |
-
-<br/>
-
 ## Version Control Systems
 
 <br/>
@@ -90,7 +78,34 @@ title: Certificates
 <br/>
 
 ***
+
+## Programming Languages
+
+<br/>
+
+  | [Crash Course on Python](
+https://www.coursera.org/account/accomplishments/certificate/SKJWCFQTEKCF) |
+  | :----------------------:                                                                                                             |
+  | Issued By: Coursera                                                                                                                    |
+  | April 2020 - No Expiration Date                                                                                                       |
+  | ID : SKJWCFQTEKCF                                                                                                                    |
+
+<br/>
+
 ***
+
+## AI
+
+<br/>
+
+  | [Getting Started with AI on Jetson Nano](https://courses.nvidia.com/certificates/72a7f2c6ce6146479b2ad5e1f45a8296) | 
+  | :-------------------:                                                                                                      |
+  | Issued By : NVIDIA Deep Learning Institute                                                                                 |
+  | July 2019 - No Expiration Date                                                                                             |
+  | ID : 72a7f2c6ce6146479b2ad5e1f45a8296                                                                                      |
+
+<br/>
+
 ## Digital Marketing
 
 <br/>
