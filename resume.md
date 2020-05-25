@@ -27,7 +27,7 @@ title: Resume
 | B-Tech Computer Science | MES College of Engineering, Kuttippuram | KTU              | 7.11          | Pursuing      |
 
 ## Areas of Interests
-* CyberSecurity, CloudComputing, WebDevelopment
+* Cyber Security, Cloud Computing, Web Development
 
 ## Additional Skills
 * Proficient in using the **linux terminal**
