@@ -8,7 +8,7 @@ title: Resume
 * +917560922401
 
 ## Experience
-* **Agora Student Ambassador** ,Janu 2020 - Present
+* **Agora Student Ambassador** ,Jan 2020 - Present
 * **WebMaster , IEE SB MESCE** ,Jan 2019 - Dec 2019
 
 ## Skills
