@@ -18,6 +18,7 @@ I'm a <a href="https://www.credential.net/8l14wlvo?key=e0654b6f6ae429c8e1096602b
 * [<span class="fas fa-envelope"></span> rezraf77@gmail.com](mailto:rezraf77@gmail.com)
 * [<span class="fab fa-github"></span> rezraf77](https://github.com/rezraf77)
 * [<span class="fab fa-linkedin"></span> rezwin-rafeek](https://www.linkedin.com/in/rezwin-rafeek/)
+* [<span class="fab fa-kaggle"></span> rezwin-rafeek](https://www.kaggle.com/rezwinrafeek)
 
 
 
