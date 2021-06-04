@@ -8,15 +8,20 @@ title: Resume
 * +917560922401
 
 ## Experience
-* **Agora Student Ambassador** ,Jan 2020 - Present
+* **Assistant Systems Engineer - Trainee (Tata Consultancy Services) ** ,Jan 2021 - Present
+* **Agora Student Ambassador** ,Jan 2020 - Dec 2020
 * **WebMaster , IEE SB MESCE** ,Jan 2019 - Dec 2019
 
 ## Skills
- * Programming : **Python , C , C++**
+ * Programming : **Python , R , bash, SQL**
+ * ETL tools : SAP BODS, SQL Server Studio
+ * spreadsheet softwares : Microsoft Excel, Google Sheets
+ * Visualization tools : Tableau, Qliksense
  * WebDev :**HTML5 Stack , Bootstrap4**
 
 ## Achievements
 * **Google Certified Associate Cloud Engineer** : Completed all requirements to be recognised as a Google Cloud Certified associate cloud engineer
+* **GATE Qualified (2020)**
 
 ## Educational Qualification
 
@@ -24,13 +29,13 @@ title: Resume
 | :---------------------: | :-------------------------------------: | :--------------: |---------------|---------------|
 | AISSE(10th)             |Chinmaya Vidyalaya Kannur                | CBSE             | 9.2           | 2014          |
 | AISSCE(12th)            | Bharathiya Vidya Bhavan,Kannur          | CBSE             | 88.6%         | 2016          |
-| B-Tech Computer Science | MES College of Engineering, Kuttippuram | KTU              | 7.11          | Pursuing      |
+| B-Tech Computer Science | MES College of Engineering, Kuttippuram | KTU              | 7.27          | 2020          |
 
 ## Areas of Interests
-* Cyber Security, Cloud Computing, Web Development
+* Data Analytics, Cloud Computing
 
 ## Additional Skills
-* Proficient in using the **linux terminal**
+* Proficient in using workin in the linux environmetn
 * Fluent in **English, Hindi and Malayalam**
 
 ## Hobbies
