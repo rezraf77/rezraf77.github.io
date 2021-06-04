@@ -13,11 +13,11 @@ title: Resume
 * **WebMaster , IEE SB MESCE** ,Jan 2019 - Dec 2019
 
 ## Skills
- * Programming : **Python , R , bash, SQL**
- * ETL tools : SAP BODS, SQL Server Studio
- * spreadsheet softwares : Microsoft Excel, Google Sheets
- * Visualization tools : Tableau, Qliksense
- * WebDev :**HTML5 Stack , Bootstrap4**
+ * **Python , R , bash, SQL**
+ * SAP BODS, SQL Server Studio
+ * Microsoft Excel, Google Sheets
+ * Tableau, Qliksense
+ * Git
 
 ## Achievements
 * **Google Certified Associate Cloud Engineer** : Completed all requirements to be recognised as a Google Cloud Certified associate cloud engineer
