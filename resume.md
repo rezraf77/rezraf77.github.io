@@ -8,7 +8,7 @@ title: Resume
 * +917560922401
 
 ## Experience
-* **Assistant Systems Engineer - Trainee (Tata Consultancy Services) ** ,Jan 2021 - Present
+* **Assistant Systems Engineer - Trainee (Tata Consultancy Services)** ,Jan 2021 - Present
 * **Agora Student Ambassador** ,Jan 2020 - Dec 2020
 * **WebMaster , IEE SB MESCE** ,Jan 2019 - Dec 2019
 
